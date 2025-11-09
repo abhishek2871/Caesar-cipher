@@ -79,6 +79,8 @@ Design Theme: Dark-mode GUI with enhanced visual feedback.
 Clone the Repository
 
 git clone https://github.com/yourusername/Caesar-Cipher-Encryption-Tool.git
+
+
 cd Caesar-Cipher-Encryption-Tool
 
 
@@ -87,13 +89,7 @@ Run the Program
 python caesar_cipher_tool.py
 
 
-Enter:
 
-Your message
-
-Shift value (1–25)
-
-Choose “Encrypt” or “Decrypt”
 
 View the output directly in the GUI or copy it to clipboard.
 
