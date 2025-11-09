@@ -84,15 +84,15 @@ Design Theme: Dark-mode GUI with enhanced visual feedback.
 
 Clone the Repository
 
-git clone https://github.com/abhishek2871/Caesar-cipher
+git clone https://github.com/abhishek2871/Caesar-cipher.git
 
 
-cd Caesar-Cipher-Encryption-Tool
+cd Caesar-Cipher
 
 
 Run the Program
 
-python caesar_cipher_tool.py
+python caesar_cipher.py
 
 
 
