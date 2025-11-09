@@ -21,7 +21,8 @@ To decrypt, the process is simply reversed by shifting in the opposite direction
 
 Formula:
 
-Encryption: C = (P + K) mod 26  
+Encryption: C = (P + K) mod 26 
+
 Decryption: P = (C - K) mod 26
 
 
@@ -48,16 +49,21 @@ K = Shift key
 🚫 Error handling for invalid inputs
 
 💡 Usage Example
+
 Encrypting a Message
 
 Input Message: HELLO
+
 Shift Value: 3
+
 Encrypted Output: KHOOR
 
 Decrypting a Message
 
 Input Message: KHOOR
+
 Shift Value: 3
+
 Decrypted Output: HELLO
 
 🧰 Implementation Details
