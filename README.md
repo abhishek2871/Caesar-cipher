@@ -99,13 +99,18 @@ Clone the Repository
 
     git clone https://github.com/abhishek2871/Caesar-cipher.git
 
+---
 
     cd Caesar-Cipher
 
+---
+    chmod 777 caesar_cipher.py
+
+---
 
 Run the Program
 
-    python caesar_cipher.py
+    python3 caesar_cipher.py
 
 
 
